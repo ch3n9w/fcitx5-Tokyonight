@@ -1,8 +1,6 @@
 # Tokyonight
 使用Tokyonight 配色的fcitx5主题
 
-![Storm](./image/storm.png)
-
 ## 截图
 Tokyonight-Storm主题
 ![Storm](./image/storm.png)
