@@ -15,9 +15,3 @@ clone 项目, 将Tokyonight-Day 和 Tokyonight-Storm两个目录复制到fcitx5�
 ## Other
 
 觉得好看麻烦给个star哦! (◍•ᴗ•◍)
-
-## License
-MIT License
-
-Copyright (c) 2022 ch4xer
-
